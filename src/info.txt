@@ -1,0 +1,45 @@
+ObjektKürzel
+
+1 : gras01
+20 : groundWalk01
+21 : groundWalkRB01
+22 : groundWalkRT01
+23 : groundWalkRR01
+24 : groundWalkRL01
+25 : groundWalkOL_UR_L
+26 : groundWalkOL_UR_R
+27 : groundWalkUL_OR_L
+28 : groundWalkUL_OR_R
+29 : groundWalkE_B
+30 : groundWalkE_T
+31 : groundWalkE_R
+32 : groundWalkE_L
+
+
+
+101 : plant01
+102 : zaunH01
+103 : zaunV01
+104 : zaunOL_UR01
+105 : zaunUL_OR01
+106 : zaunOM_RM01
+107 : zaunLM_UM01
+120 : crystal_kl
+150 : tree01
+
+201 : grasBunch01
+202 : grasBunch02
+203 : grasFlower01
+204 : grasFlowerBunch01
+
+
+MapId = für alle map nummern
+numberId = für eine map
+
+Bild einfügen:
+
+Data.Images.Map
+Logic.Images.LoadImagesMap
+Gui.Map
+Gui.Listener.EditorMapClickListener
+Gui.MapEditor
